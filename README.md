@@ -1,1 +1,1 @@
-# python-binary-file-fs
+# Python: files tree serialization
